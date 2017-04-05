@@ -32,7 +32,7 @@ show(union(extruded));
 
 ## Links
 
-- [Open JSCAD](https://github.com/johnwebbcole/OpenJSCAD.org)
+- [Open JSCAD](https://github.com/Spiritdude/OpenJSCAD.org)
 - [JSCAD Utils](https://github.com/johnwebbcole/jscad-utils)
 - [Standalone Generator](https://github.com/johnwebbcole/generator-jscad)
 - [Edit JSCAD in Atom](https://github.com/johnwebbcole/atom-jscad-viewer)
